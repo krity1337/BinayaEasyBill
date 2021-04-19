@@ -17,6 +17,8 @@ void add_inv();
 void display_inv();
 void search_inv();
 void modify_inv();
+void delete_inv();
+void exit_inv();
 
 
 
